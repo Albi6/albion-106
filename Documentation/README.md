@@ -13,4 +13,4 @@
 
 ---
 
-![image]([https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png])
+![image]([https://pngimg.com/d/mysql_PNG23.png])
