@@ -13,4 +13,4 @@
 
 ---
 
-![image](https://clipart-library.com/2023/RcdgAAE9i.png)
+![image]([https://clipart-library.com/2023/RcdgAAE9i.png](https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png)
