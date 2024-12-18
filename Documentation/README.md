@@ -13,4 +13,3 @@
 
 ---
 
-![image]([https://pngimg.com/d/mysql_PNG23.png])
