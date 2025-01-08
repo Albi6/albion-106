@@ -8,7 +8,7 @@
 
 [Ma base de données](https://github.com/Albi6/albion-106/blob/main/MCD/BDD.loo)
 
-[Ma base de données en SQL](https://github.com/Albi6/albion-106/blob/main/Script%20SQL/SpicyInvaders.sql)
+[Ma base de données en SQL](https://github.com/Albi6/albion-106/blob/main/Script%20SQL/SpaceInvaders.sql)
 
 [Mes requetes](https://github.com/Albi6/albion-106/blob/main/Script%20SQL/requetes.sql)
 
